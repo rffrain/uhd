@@ -1,0 +1,1 @@
+atOptions={key:"dd396fcf945860975f6c75cacf6173e4",format:"iframe",height:50,width:320,params:{}},document.write('<script type="text/javascript" src="http'+("https:"===location.protocol?"s":"")+'://www.effectivecreativeformats.com/dd396fcf945860975f6c75cacf6173e4/invoke.js"></script>')
