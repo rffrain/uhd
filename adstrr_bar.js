@@ -15,7 +15,7 @@ function fx1() {
  atOptions={key:"dd396fcf945860975f6c75cacf6173e4",format:"iframe",height:50,width:320,params:{}},document.write('<script type="text/javascript" src="http'+("https:"===location.protocol?"s":"")+'://www.effectivecreativeformats.com/dd396fcf945860975f6c75cacf6173e4/invoke.js"></script>')
 
 function fx0() {
-  document.getElementById("stcky").style.marginBottom = "-75";
+  document.getElementById("stcky").style.marginBottom = "-75px";
   document.getElementById("x_1").style.display = "block";
   document.getElementById("x_0").style.display = "none";
 }
