@@ -1,0 +1,1 @@
+atOptions = { 'key' : 'ead488fcff5fd724b3e36509b01f7aed', 'format' : 'iframe', 'height' : 600, 'width' : 160, 'params' : {} }; document.write('&lt;scr' + 'ipt type=&quot;text/javascript&quot; src=&quot;http' + (location.protocol === 'https:' ? 's' : '') + '://historicalcarawayammonia.com/ead488fcff5fd724b3e36509b01f7aed/invoke.js&quot;&gt;&lt;/scr' + 'ipt&gt;');
